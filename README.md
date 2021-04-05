@@ -1,6 +1,14 @@
 # TribalHunter_ChineseTranslation
 部落猎人 文本汉化
 
+## 导航
+- [关于项目](#关于项目)
+- [使用方法](#使用方法)
+- [汉化进度](#汉化进度)
+- [关于字库生成](#关于字库生成)
+- [Todo](/#Todo)
+- [爬坑过程](#爬坑过程)
+
 ## 关于项目
 看到这款游戏还没有汉化补丁，所以尝试做一次汉化。
 
@@ -52,18 +60,7 @@
    ![image](https://user-images.githubusercontent.com/12333564/113619059-144ad080-968b-11eb-833f-b4de01d8bfeb.png)
 
    ![image](https://user-images.githubusercontent.com/12333564/113619217-4c521380-968b-11eb-87b8-9e5abf009519.png)
-
-
-## 关于字库生成
-先简单写写方便有兴趣的朋友测试。
-
-使用2.1.5版本的GameMaker: Studio，创建一个项目，创建字体（字体名要对应要替换的字体，字体名参考UMT打开data.win时候的Fonts树），在添加里从文件导入要添加的字体（我试过生成6万个字符等3个小时都没结果），之后按Ctrl+F8生成为Zip格式，解压后可以得到一个包含你创建的字体的data.win，用UMT打开后用FontDataExport.csx导出字体即可。
-
-## Todo
-- [ ] 找个更合适的字体
-- [ ] 针对不同地方使用不同的字体
-- [ ] 还有吗？
-
+   
 ## 汉化进度
 更新时间: 2021/04/06
 
@@ -95,6 +92,16 @@ scrDataTriggerPiglands1 | 未开始
 scrDataTriggerSlime | 润色0%
 scrDataTriggerVillage | 未开始
 scrDataTV | 未开始
+
+## 关于字库生成
+先简单写写方便有兴趣的朋友测试。
+
+使用2.1.5版本的GameMaker: Studio，创建一个项目，创建字体（字体名要对应要替换的字体，字体名参考UMT打开data.win时候的Fonts树），在添加里从文件导入要添加的字体（我试过生成6万个字符等3个小时都没结果），之后按Ctrl+F8生成为Zip格式，解压后可以得到一个包含你创建的字体的data.win，用UMT打开后用FontDataExport.csx导出字体即可。
+
+## Todo
+- [ ] 找个更合适的字体
+- [ ] 针对不同地方使用不同的字体
+- [ ] 还有吗？
 
 ## 爬坑过程
 https://redoru.cn/?p=13
