@@ -80,7 +80,7 @@ scrDataTLJungle | 未开始
 scrDataTLMountain | 未开始
 scrDataTLPiglands1 | 未开始
 scrDataTLSlime | 未开始
-scrDataTLVillage | 机翻5%
+scrDataTLVillage | 机翻95%
 scrDataTriggerBeach | 未开始
 scrDataTriggerCastle | 未开始
 scrDataTriggerCrystal | 未开始
