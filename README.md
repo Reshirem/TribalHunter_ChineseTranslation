@@ -88,7 +88,7 @@ scrDataTriggerGhost | 未开始
 scrDataTriggerHive | 未开始
 scrDataTriggerJungle | 未开始
 scrDataTriggerMountain | 未开始
-scrDataTriggerPiglands1 | 未开始
+scrDataTriggerPiglands1 | 润色0%
 scrDataTriggerSlime | 润色0%
 scrDataTriggerVillage | 未开始
 scrDataTV | 未开始
