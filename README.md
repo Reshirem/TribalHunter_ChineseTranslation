@@ -78,7 +78,7 @@ scrDataTLGhost | 未开始
 scrDataTLHive | 未开始
 scrDataTLJungle | 未开始
 scrDataTLMountain | 未开始
-scrDataTLPiglands1 | 未开始
+scrDataTLPiglands1 | 机翻45%
 scrDataTLSlime | 未开始
 scrDataTLVillage | 机翻95%
 scrDataTriggerBeach | 未开始
@@ -90,7 +90,7 @@ scrDataTriggerJungle | 未开始
 scrDataTriggerMountain | 未开始
 scrDataTriggerPiglands1 | 润色0%
 scrDataTriggerSlime | 润色0%
-scrDataTriggerVillage | 未开始
+scrDataTriggerVillage | 润色0%
 scrDataTV | 未开始
 
 ## 关于字库生成
